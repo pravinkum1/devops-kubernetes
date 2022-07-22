@@ -1,2 +1,1 @@
-# devops-kubernetes
-devops integration with kubernetes
+# devops-automation
